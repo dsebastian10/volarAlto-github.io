@@ -1,0 +1,7 @@
+1.-     ls -l
+2.-    git init
+3.-    git add .
+4.-   git commit -m "Subiendo codigo Entidad"
+5.-   git remote add origin https://github.com/dsebastian10/Control_de_Viajes.git
+6.-   git push -u origin master
+exit
